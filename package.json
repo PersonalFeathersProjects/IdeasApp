@@ -1,0 +1,20 @@
+{
+  "name": "personal-feathers-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [],
+  "author": "Emmanuel Nnajiofor",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/express": "^4.5.2",
+    "@feathersjs/feathers": "^4.5.2",
+    "@feathersjs/socketio": "^4.5.2",
+    "cors": "^2.8.5",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2"
+  }
+}
